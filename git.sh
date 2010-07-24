@@ -1,3 +1,10 @@
 alias gp='git pull'
 alias gu='git push'
 alias gpp='git pull && git push'
+alias ga='git add'
+alias gst='git status'
+alias gdf='git diff'
+alias gci='git commit'
+alias gco='git checkout'
+alias gl='git log'
+
